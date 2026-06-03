@@ -2,7 +2,7 @@
 
 <img src="Media/bannergit.png" alt="banner" width="100%" />
 
-# Hola, soy Abraham Plata 👋
+# Hola, soy Abraham Plata
 
 **Administrador de Sistemas en Red · Desarrollador · Linux Enthusiast**
 
@@ -19,14 +19,14 @@
 
 Técnico en **Administración de Sistemas Informáticos en Red** (ASIR) apasionado por Linux, redes y la automatización. Trabajo con sistemas desde 2016 — coordinando infraestructura de fibra óptica para Vodafone, MásMóvil y Orange — y actualmente construyo proyectos con Python, IA y entornos Linux modernos.
 
-- 🖥️ Uso **CachyOS + Hyprland** (Omarchy) como entorno de trabajo diario
-- 🤖 Construyendo **asistentes de voz con IA** integrados en el sistema operativo
-- ☁️ Aprendiendo **Azure**, automatización con **Proxmox** y **DevOps**
-- 📺 Comparto tutoriales en YouTube cuando puedo
+- Uso **CachyOS + Hyprland** (Omarchy) como entorno de trabajo diario
+- Construyendo **asistentes de voz con IA** integrados en el sistema operativo
+- Aprendiendo **Azure**, automatización con **Proxmox** y **DevOps**
+- Comparto tutoriales en YouTube cuando puedo
 
 ---
 
-## 🛠 Stack tecnológico
+## Stack tecnológico
 
 **Sistemas & Redes**
 
@@ -53,7 +53,7 @@ Técnico en **Administración de Sistemas Informáticos en Red** (ASIR) apasiona
 
 ---
 
-## 📊 Estadísticas GitHub
+## Estadísticas GitHub
 
 <div align="center">
 
@@ -70,12 +70,12 @@ Técnico en **Administración de Sistemas Informáticos en Red** (ASIR) apasiona
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Claude Agent Omarchy</h3>
+      <h3 align="center">Claude Agent Omarchy</h3>
       <a href="https://github.com/platadevv/claude-agent-omarchy">
         <img src="https://raw.githubusercontent.com/platadevv/claude-agent-omarchy/main/Media/preview.png" alt="Claude Agent Omarchy" width="100%" />
       </a>
@@ -109,7 +109,7 @@ Técnico en **Administración de Sistemas Informáticos en Red** (ASIR) apasiona
 
 ---
 
-## 📈 Actividad reciente
+## Actividad reciente
 
 <div align="center">
 
